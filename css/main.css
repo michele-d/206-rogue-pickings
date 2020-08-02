@@ -5,9 +5,6 @@ html {
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-size: 1em;
-	display:flex;
-	justify-content: center;
-	align-items: center;
 }
 
 .container{
